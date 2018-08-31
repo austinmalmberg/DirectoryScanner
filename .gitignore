@@ -21,10 +21,7 @@ local.properties
 # Code Recommenders
 .recommenders/
 
-# DirectoryScanner project specific
-directories/*
-!directories/.gitkeep
-
+# DirectoryScanner specific
 *.csv
 OfflineComputers.txt
 SummaryStatistics.txt
