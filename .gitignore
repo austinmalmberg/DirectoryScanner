@@ -1,0 +1,30 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+*.loadpath
+*.recommenders
+*.classpath
+*.project
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# Code Recommenders
+.recommenders/
+
+# DirectoryScanner project specific
+directories/*
+!directories/.gitkeep
+
+*.csv
+OfflineComputers.txt
+SummaryStatistics.txt
